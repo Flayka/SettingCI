@@ -1,1 +1,1 @@
-[![Build status](https://ci.appveyor.com/api/projects/status/2e3p6fpvfu944xv2?svg=true)](https://ci.appveyor.com/project/ZSemen47/settingci)
+[![Build status](https://ci.appveyor.com/api/projects/status/fw0cl3i2mj4hwr3b?svg=true)](https://ci.appveyor.com/project/Flayka/settingci)
